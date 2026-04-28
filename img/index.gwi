@@ -1,0 +1,13 @@
+{
+  "HourTickLength": 18,
+  "HourTickWidth": 2,
+  "HourTickDistance": 0,
+  "MinuteTickLength": 5,
+  "MinuteTickWidth": 2,
+  "MinuteTickDistance": 0,
+  "BackgroundColor": "White",
+  "HourTickColor": "#FFCA1C",
+  "MinuteTickColor": "Silver",
+  "TransparentBackground": true,
+  "MinuteTicksOnHour": false
+}

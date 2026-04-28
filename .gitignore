@@ -1,0 +1,32 @@
+# Generated exports/build outputs
+build/
+*.apk
+*.aab
+*.apks
+
+# Signing material and local secrets
+keystore/
+*.jks
+*.keystore
+*.pem
+
+# Temporary or broken project copies
+Face*.wfs
+Iris*.wfs
+!Face27.wfs
+*alt*.wfs
+*before*.wfs
+*.bak
+*.tmp
+
+# Local media captures
+*.mp4
+*.mov
+
+# Local editor/OS files
+.idea/
+.vscode/
+*.swp
+*.swo
+Thumbs.db
+Desktop.ini
