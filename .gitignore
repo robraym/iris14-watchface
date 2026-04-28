@@ -14,6 +14,7 @@ keystore/
 Face*.wfs
 Iris*.wfs
 !Iris14.wfs
+!Face27.wfs
 *alt*.wfs
 *before*.wfs
 *.bak
