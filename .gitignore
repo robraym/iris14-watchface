@@ -13,7 +13,7 @@ keystore/
 # Temporary or broken project copies
 Face*.wfs
 Iris*.wfs
-!Face27.wfs
+!Iris14.wfs
 *alt*.wfs
 *before*.wfs
 *.bak
